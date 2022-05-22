@@ -1,0 +1,17 @@
+{
+    "Authorization": {
+        "token": ""
+    },
+    "Members": {},
+    "Data": {
+        "guild_name": "",
+        "channel_name": "",
+        "category_name": "",
+        "emojis_name": "",
+        "admin_name": "",
+        "direct_message_name": "",
+        "nick_name": "",
+        "role_name": "",
+        "spam_message": ""
+    }
+}
