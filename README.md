@@ -57,7 +57,7 @@ The bot prefix is ?, all commands need to start with ?
 ## How to setup and custom the bot?
 First of all you need to download the entire project from Github, later you need to download python from [here](https://www.python.org), later you need to open a terminal and open the folder project_codeine and install the requirements using pip install -r requirements.txt or you can install it manually.
 
-Open src folder and run main.py and choose the first option, write your discord account id, later set your bot's token (You can get your bot token [here](https://discord.com/developers/docs/intro)) and you can custom the data of the bot using the optiom 4, finally you can run the bot with the option 5.
+Open src folder and run main.py and choose the first option, write your discord account id, later set your bot's token (You can get your bot token [here](https://discord.com/developers/docs/intro) and you can custom the data of the bot using the optiom 4, finally you can run the bot with the option 5.
 
 ## Contact
 You can contact me for here for ask questions or you can send me a message to my discord
