@@ -4,7 +4,7 @@
 import discord
 from discord.ext import commands
 # Utils
-from utils import get_data, get_image_file
+from utils import get_data
 
 
 class Emojis(commands.Cog):
