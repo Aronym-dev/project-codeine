@@ -1,6 +1,5 @@
 # JSON
 import json
-from posixpath import dirname
 
 # Local libraries
 import uuid, os
